@@ -1,0 +1,14 @@
+.idea
+*.iml
+docker/**/env/*-env
+docker/**/env/source.env
+docker/**/*.sql
+docker/**/*.db-cred*
+backend/inkk/*
+**/*.db-cred*
+**/*-env
+**/.bsp/*
+**/source.env
+**/kafka/*
+**/zookeeper/*
+
